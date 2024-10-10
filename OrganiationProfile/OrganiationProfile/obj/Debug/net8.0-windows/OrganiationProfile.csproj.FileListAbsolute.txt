@@ -1,0 +1,17 @@
+C:\Users\Elijah\source\repos\OrganiationProfile\OrganiationProfile\bin\Debug\net8.0-windows\OrganiationProfile.exe
+C:\Users\Elijah\source\repos\OrganiationProfile\OrganiationProfile\bin\Debug\net8.0-windows\OrganiationProfile.deps.json
+C:\Users\Elijah\source\repos\OrganiationProfile\OrganiationProfile\bin\Debug\net8.0-windows\OrganiationProfile.runtimeconfig.json
+C:\Users\Elijah\source\repos\OrganiationProfile\OrganiationProfile\bin\Debug\net8.0-windows\OrganiationProfile.dll
+C:\Users\Elijah\source\repos\OrganiationProfile\OrganiationProfile\bin\Debug\net8.0-windows\OrganiationProfile.pdb
+C:\Users\Elijah\source\repos\OrganiationProfile\OrganiationProfile\obj\Debug\net8.0-windows\OrganiationProfile.frmRegistration.resources
+C:\Users\Elijah\source\repos\OrganiationProfile\OrganiationProfile\obj\Debug\net8.0-windows\OrganiationProfile.frmConfirmation.resources
+C:\Users\Elijah\source\repos\OrganiationProfile\OrganiationProfile\obj\Debug\net8.0-windows\OrganiationProfile.csproj.GenerateResource.cache
+C:\Users\Elijah\source\repos\OrganiationProfile\OrganiationProfile\obj\Debug\net8.0-windows\OrganiationProfile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elijah\source\repos\OrganiationProfile\OrganiationProfile\obj\Debug\net8.0-windows\OrganiationProfile.AssemblyInfoInputs.cache
+C:\Users\Elijah\source\repos\OrganiationProfile\OrganiationProfile\obj\Debug\net8.0-windows\OrganiationProfile.AssemblyInfo.cs
+C:\Users\Elijah\source\repos\OrganiationProfile\OrganiationProfile\obj\Debug\net8.0-windows\OrganiationProfile.csproj.CoreCompileInputs.cache
+C:\Users\Elijah\source\repos\OrganiationProfile\OrganiationProfile\obj\Debug\net8.0-windows\OrganiationProfile.dll
+C:\Users\Elijah\source\repos\OrganiationProfile\OrganiationProfile\obj\Debug\net8.0-windows\refint\OrganiationProfile.dll
+C:\Users\Elijah\source\repos\OrganiationProfile\OrganiationProfile\obj\Debug\net8.0-windows\OrganiationProfile.pdb
+C:\Users\Elijah\source\repos\OrganiationProfile\OrganiationProfile\obj\Debug\net8.0-windows\OrganiationProfile.genruntimeconfig.cache
+C:\Users\Elijah\source\repos\OrganiationProfile\OrganiationProfile\obj\Debug\net8.0-windows\ref\OrganiationProfile.dll
