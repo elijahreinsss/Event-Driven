@@ -1,0 +1,16 @@
+C:\Users\Elijah\source\repos\InventoryElijahSantos\bin\Debug\net8.0-windows\InventoryElijahSantos.exe
+C:\Users\Elijah\source\repos\InventoryElijahSantos\bin\Debug\net8.0-windows\InventoryElijahSantos.deps.json
+C:\Users\Elijah\source\repos\InventoryElijahSantos\bin\Debug\net8.0-windows\InventoryElijahSantos.runtimeconfig.json
+C:\Users\Elijah\source\repos\InventoryElijahSantos\bin\Debug\net8.0-windows\InventoryElijahSantos.dll
+C:\Users\Elijah\source\repos\InventoryElijahSantos\bin\Debug\net8.0-windows\InventoryElijahSantos.pdb
+C:\Users\Elijah\source\repos\InventoryElijahSantos\obj\Debug\net8.0-windows\InventoryElijahSantos.frmAddProduct.resources
+C:\Users\Elijah\source\repos\InventoryElijahSantos\obj\Debug\net8.0-windows\InventoryElijahSantos.csproj.GenerateResource.cache
+C:\Users\Elijah\source\repos\InventoryElijahSantos\obj\Debug\net8.0-windows\InventoryElijahSantos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elijah\source\repos\InventoryElijahSantos\obj\Debug\net8.0-windows\InventoryElijahSantos.AssemblyInfoInputs.cache
+C:\Users\Elijah\source\repos\InventoryElijahSantos\obj\Debug\net8.0-windows\InventoryElijahSantos.AssemblyInfo.cs
+C:\Users\Elijah\source\repos\InventoryElijahSantos\obj\Debug\net8.0-windows\InventoryElijahSantos.csproj.CoreCompileInputs.cache
+C:\Users\Elijah\source\repos\InventoryElijahSantos\obj\Debug\net8.0-windows\InventoryElijahSantos.dll
+C:\Users\Elijah\source\repos\InventoryElijahSantos\obj\Debug\net8.0-windows\refint\InventoryElijahSantos.dll
+C:\Users\Elijah\source\repos\InventoryElijahSantos\obj\Debug\net8.0-windows\InventoryElijahSantos.pdb
+C:\Users\Elijah\source\repos\InventoryElijahSantos\obj\Debug\net8.0-windows\InventoryElijahSantos.genruntimeconfig.cache
+C:\Users\Elijah\source\repos\InventoryElijahSantos\obj\Debug\net8.0-windows\ref\InventoryElijahSantos.dll
