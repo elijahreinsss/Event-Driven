@@ -1,0 +1,10 @@
+C:\Users\Elijah\source\repos\FrmOpenFilee\bin\Debug\FrmOpenFilee.exe.config
+C:\Users\Elijah\source\repos\FrmOpenFilee\bin\Debug\FrmOpenFilee.exe
+C:\Users\Elijah\source\repos\FrmOpenFilee\bin\Debug\FrmOpenFilee.pdb
+C:\Users\Elijah\source\repos\FrmOpenFilee\obj\Debug\FrmOpenFilee.csproj.AssemblyReference.cache
+C:\Users\Elijah\source\repos\FrmOpenFilee\obj\Debug\FrmOpenFilee.Form1.resources
+C:\Users\Elijah\source\repos\FrmOpenFilee\obj\Debug\FrmOpenFilee.Properties.Resources.resources
+C:\Users\Elijah\source\repos\FrmOpenFilee\obj\Debug\FrmOpenFilee.csproj.GenerateResource.cache
+C:\Users\Elijah\source\repos\FrmOpenFilee\obj\Debug\FrmOpenFilee.csproj.CoreCompileInputs.cache
+C:\Users\Elijah\source\repos\FrmOpenFilee\obj\Debug\FrmOpenFilee.exe
+C:\Users\Elijah\source\repos\FrmOpenFilee\obj\Debug\FrmOpenFilee.pdb
